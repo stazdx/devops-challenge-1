@@ -1,7 +1,7 @@
 const { greating, bye } = require('../utils/string');
 
 test('Greating father', () => {
-    expect(greating('Father')).toBe('hi Father');
+    expect(greating('Father')).toBe('Hi Father');
 });
 
 
