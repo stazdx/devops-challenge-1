@@ -6,5 +6,5 @@ test('Greating father', () => {
 
 
 test('Bye mother', () => {
-    expect(bye('mother')).toBe('bye bye mother');
+    expect(bye('mother')).toBe('Bye bye mother');
 });
